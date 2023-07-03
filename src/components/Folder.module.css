@@ -1,0 +1,9 @@
+.folder {
+  margin-top: "10px";
+  width: "300px";
+  background-color: "#d0d0d0";
+  padding: "6px";
+  cursor: "pointer";
+  display: "flex";
+  justify-content: "space-between";
+}
